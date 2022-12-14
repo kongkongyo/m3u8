@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV16-4K-SDR源
+http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 group-title="CCTV",CCTV5 IPTV
 http://hls.ye23.vip/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5+A
