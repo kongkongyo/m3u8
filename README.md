@@ -1,5 +1,9 @@
 ###订阅地址
-参考项目：https://github.com/iptv-org/iptv
+参考项目：
+https://github.com/iptv-org/iptv
+
+https://github.com/youshandefeiyang/IPTV
+
 
 1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
@@ -38,3 +42,5 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 14、TVradio
 https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
+
+15、https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/tv.txt
