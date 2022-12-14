@@ -4,10 +4,10 @@ http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&li
 
 #EXTINF:-1 group-title="CCTV",CCTV5 IPTV A
 http://112.19.214.90:8883/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5 IPTV C
-http://hls.ye23.vip/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5 IPTV B
 http://120.84.96.161:808/hls/116/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5 IPTV C
+http://hls.ye23.vip/hls/cctv5hd.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV5+ A
 http://124.220.17.172/shtv/ybhg.php?id=8111097514

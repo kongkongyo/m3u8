@@ -1,20 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="CCTV",CCTV16-4K-SDR源
 http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+
 #EXTINF:-1 group-title="CCTV",CCTV5 IPTV A
 http://112.19.214.90:8883/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5 IPTV B
-http://hls.ye23.vip/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5 IPTV C
 http://120.84.96.161:808/hls/116/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5+A
+#EXTINF:-1 group-title="CCTV",CCTV5 IPTV C
+http://hls.ye23.vip/hls/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="CCTV",CCTV5+ A
 http://124.220.17.172/shtv/ybhg.php?id=8111097514
-#EXTINF:-1 group-title="CCTV",CCTV5+B
+#EXTINF:-1 group-title="CCTV",CCTV5+ B
 http://39.135.138.58:18890/PLTV/88888910/224/3221225649/index.m3u8?%E4%B8%96%E7%95%8C%E6%9D%AFWorldCup
-#EXTINF:-1 group-title="CCTV",CCTV4K
+
+#EXTINF:-1 group-title="CCTV",CCTV4K A
 http://124.220.17.172/4k.php
 #EXTINF:-1 group-title="CCTV",CCTV4K-25P-HLG源
 http://159.75.85.63:8280/cctv4k.php
+#EXTINF:-1 group-title="CCTV",CCTV4K B
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://hls.ye23.vip/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV2
@@ -23,8 +29,6 @@ http://hls.ye23.vip/hls/cctv2hd.m3u8
 http://hls.ye23.vip/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV4
 http://hls.ye23.vip/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 #EXTINF:-1 group-title="CCTV",CCTV5
 http://hls.ye23.vip/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV6
@@ -51,6 +55,8 @@ http://hls.ye23.vip/hls/cctv15hd.m3u8
 http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV17
 http://hls.ye23.vip/hls/cctv17hd.m3u8
+
+
 #EXTINF:-1 group-title="玩偶",情侣游戏 零
 https://v.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",一日女友的漂亮姐姐 上
