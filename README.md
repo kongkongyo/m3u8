@@ -1,4 +1,5 @@
 ###订阅地址
+参考项目：https://github.com/iptv-org/iptv
 
 1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
