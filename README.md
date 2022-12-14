@@ -1,10 +1,9 @@
-###订阅地址
-参考项目：
-https://github.com/iptv-org/iptv
+# 参考项目：
+1、https://github.com/iptv-org/iptv
 
-https://github.com/youshandefeiyang/IPTV
+2、https://github.com/youshandefeiyang/IPTV
 
-
+# 订阅收集：
 1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 2、IPV6专用：https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
