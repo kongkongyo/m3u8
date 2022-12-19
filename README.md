@@ -2,7 +2,7 @@
 - ALL：CCTV + Adult 
 
 - CCTV：纯CCTV 手动更新有效源
-# 参考项目：
+# 参考项目&鸣谢：
 1、https://github.com/iptv-org/iptv
 
 2、https://github.com/youshandefeiyang/IPTV
