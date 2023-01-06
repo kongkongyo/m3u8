@@ -6,53 +6,22 @@ http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&li
 http://112.19.214.90:8883/tsfile/live/0005_1.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV5+ A
-http://124.220.17.172/shtv/ybhg.php?id=8111097514
-#EXTINF:-1 group-title="CCTV",CCTV5+ B
 http://39.135.138.58:18890/PLTV/88888910/224/3221225649/index.m3u8?%E4%B8%96%E7%95%8C%E6%9D%AFWorldCup
-#EXTINF:-1 group-title="CCTV",CCTV5+ C
-http://120.84.96.161:808/hls/116/index.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV4K-25P-HLG源
-http://159.75.85.63:8280/cctv4k.php
-#EXTINF:-1 group-title="CCTV",CCTV4K A
-http://124.220.17.172/4k.php
-#EXTINF:-1 group-title="CCTV",CCTV4K B
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://hls.ye23.vip/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2
-http://hls.ye23.vip/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV3
-http://hls.ye23.vip/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4
-http://hls.ye23.vip/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5 IPTV
-http://hls.ye23.vip/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV6
-http://hls.ye23.vip/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV7
-http://hls.ye23.vip/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV8
-http://hls.ye23.vip/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV9
-http://hls.ye23.vip/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV10
-http://hls.ye23.vip/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV11
-http://hls.ye23.vip/hls/cctv11hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV12
-http://hls.ye23.vip/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV13
-http://hls.ye23.vip/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://hls.ye23.vip/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV15
-http://hls.ye23.vip/hls/cctv15hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV16
-http://hls.ye23.vip/hls/cctv16hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV17
-http://hls.ye23.vip/hls/cctv17hd.m3u8
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="CCTV",CCTV-4K25P-SDR-百事通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4K-50P-HLG小果源
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 group-title="CCTV",CCTV16-4K25P-SDR-百视通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16-4K25P-SDR源
+http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 group-title="CCTV",CCTV16-4K-25PHLG源
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 group-title="CCTV",CCTV16-4K-50P-HLG小果源
+http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 
 
 
