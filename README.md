@@ -2,12 +2,14 @@
 - ALL：CCTV + Adult 
 
 - CCTV：纯CCTV 手动更新有效源
-# 参考项目：
+# 参考项目&鸣谢：
 1、https://github.com/iptv-org/iptv
 
 2、https://github.com/youshandefeiyang/IPTV
 
 3、https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+
+4、https://github.com/zhanghongguang/zhanghongguang.github.io
 
 # 订阅收集：
 1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
