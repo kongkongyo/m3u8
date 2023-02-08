@@ -1,12 +1,23 @@
 #EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV16-4K-SDR源
+http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+
 #EXTINF:-1 group-title="CCTV",CCTV5 IPTV
 http://112.19.214.90:8883/tsfile/live/0005_1.m3u8
+
 #EXTINF:-1 group-title="CCTV",CCTV5+ A
 http://39.135.138.58:18890/PLTV/88888910/224/3221225649/index.m3u8?%E4%B8%96%E7%95%8C%E6%9D%AFWorldCup
+
 #EXTINF:-1 group-title="CCTV",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="CCTV",CCTV-4K25P-SDR-百事通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV4K-50P-HLG小果源
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 group-title="CCTV",CCTV16-4K25P-SDR-百视通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16-4K25P-SDR源
+http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 group-title="CCTV",CCTV16-4K-25PHLG源
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 group-title="CCTV",CCTV16-4K-50P-HLG小果源
@@ -117,6 +128,12 @@ http://222.240.82.92:9901/tsfile/live/0010_1.m3u8
 http://222.240.82.92:9901/tsfile/live/0001_1.m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="玩偶",情侣游戏 零
+https://v.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",一日女友的漂亮姐姐 上
 https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
 #EXTINF:-1 group-title="玩偶",一日女友的漂亮姐姐 中
@@ -20421,3 +20438,4 @@ https://v.kuaishouvod.com/m3u8/0/870/index.m3u8
 https://p.xgkvwoj.cn/watch9/2716a1f455dbf99e4e20443c249f68a8/2716a1f455dbf99e4e20443c249f68a8.m3u8
 #EXTINF:-1 group-title="未分类",JK 制服黑丝 00 后学妹 02
 https://p.xgkvwoj.cn/watch9/d461be49d91888b1e8e85e2fbf364255/d461be49d91888b1e8e85e2fbf364255.m3u8
+★复制文本百度搜索百度翻译
