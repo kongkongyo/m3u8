@@ -1,23 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1,CCTV16-4K-SDR源
-http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-
 #EXTINF:-1,CCTV5 IPTV
 http://112.19.214.90:8883/tsfile/live/0005_1.m3u8
-
 #EXTINF:-1,CCTV5+ A
 http://39.135.138.58:18890/PLTV/88888910/224/3221225649/index.m3u8?%E4%B8%96%E7%95%8C%E6%9D%AFWorldCup
-
 #EXTINF:-1,CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1,CCTV-4K25P-SDR-百事通源
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1,CCTV4K-50P-HLG小果源
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,CCTV16-4K25P-SDR-百视通源
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-#EXTINF:-1,CCTV16-4K25P-SDR源
-http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1,CCTV16-4K-25PHLG源
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1,CCTV16-4K-50P-HLG小果源
