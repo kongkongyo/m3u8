@@ -11,6 +11,8 @@
 
 4、https://github.com/zhanghongguang/zhanghongguang.github.io
 
+5、IPV4 https://live.zbds.top/tv/iptv4.m3u
+
 # 订阅收集：
 1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
